@@ -1,5 +1,5 @@
-// Package xurls extracts urls from plain text using regular expressions.
-package xurls
+// Package urlx extracts urls from plain text using regular expressions.
+package urlx
 
 import (
 	"html"
